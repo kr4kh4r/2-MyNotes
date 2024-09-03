@@ -1,0 +1,12 @@
+delete from genp where agrp like '%SECRET_APP_NAME%'
+ delete from keys where agrp like '%2HR98X8DSD%'
+
+
+
+delete from genp where agrp like %otter keyboard tool%
+delete from keys where agrp like %otter keyboard tool%
+
+
+
+other method
+delete from genp where agrp = 2HR98X8DSD.group.czk
